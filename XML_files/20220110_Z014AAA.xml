@@ -1,0 +1,1167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<estadodecuenta FUECD="20220117Z014AAA" clv_participante="Z014" clv_subcuenta="Z014AAA" fecha_oper="2022/01/10" fecha_emis="2022/01/17" clv_sistema="BCA">
+  <liquidaciones>
+    <liquidacion num_liq="0">
+      <facturas>
+        <factura tipo="pago" emisor="participante" rfc="" razon_social="" domicilio="" fuf="20220117Z014AAAP00" fecha_pago="2022/02/02">
+          <conceptos>
+            <concepto ful="20220117Z014AAA-A01010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A01040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A03010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A04010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A05010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A06010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A07010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A10010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A12180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A13070" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A14180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A15020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A15030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A15050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A17080" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A18180" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A19110" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A67290" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B01010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B01040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B03010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B04010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B05010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B06010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B07010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B10010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B12180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B19110" grupo="">
+              <descripcion> al Receptor</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B22180" grupo="">
+              <descripcion>Reembolso de las </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B25180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C57010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C59010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C61010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-E27130" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F24060" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F29180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F30010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F31150" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F35180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F38170" grupo="">
+              <descripcion>Contribución de Participantes del Mercado al Pago al Fondo de Capital de Trabajo por </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F48170" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F49210" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F63150" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura tipo="cobro" emisor="cenace" fuf="20220117Z014AAAC00" ref_bancaria="" rfc="" razon_social="" domicilio="" fecha_pago="2022/01/26">
+          <conceptos>
+            <concepto ful="20220117Z014AAA-A02020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A02030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A02050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A08010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A08020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A08030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A08040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A08050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A09010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A09020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A09030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A09040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A09050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A11180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A16090" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A20100" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A42020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A43020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-A68290" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B02020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B02030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B02050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B08010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B08020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B08030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B08040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B08050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B09010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B09020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B09030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B09040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B09050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B11180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B20100" grupo="">
+              <descripcion> al Emisor</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B21010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B42020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B43020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C50120" grupo="">
+              <descripcion>Cargos a los Participantes del Mercado por </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C52120" grupo="">
+              <descripcion>Cargos a los Participantes del Mercado por </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C54120" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C56120" grupo="">
+              <descripcion>Cargos a los Participantes del Mercado por la función de </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C58120" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C60120" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-C62120" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-E26130" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-E44130" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F23160" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F28140" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F30180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F32180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F33010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F34010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F37020" grupo="">
+              <descripcion>Contribución a  de los Centros de Carga Directamente Modelados</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F37030" grupo="">
+              <descripcion>Contribución a  de los Centros de Carga Indirectamente Modelados</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F37050" grupo="">
+              <descripcion>Contribución a  por exportaciones</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F40190" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F45010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F46010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F47010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F51230" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F52180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F64250" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F69300" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-F70180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura tipo="pagonotacredito" emisor="participante" rfc="" razon_social="" domicilio="" fuf="20220117Z014AAAPT0" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura tipo="cobronotacredito" emisor="cenace" fuf="20220117Z014AAACT0" ref_bancaria="" rfc="" razon_social="" domicilio="" fecha_pago="2022/02/02">
+          <conceptos>
+            <concepto ful="20220117Z014AAA-B65260" grupo="">
+              <descripcion>Ajuste al Participante por Transacciones Bilaterales de  (receptor)</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220117Z014AAA-B65270" grupo="">
+              <descripcion>Ajuste al Participante por Transacciones Bilaterales de  (receptor)</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+          </conceptos>
+        </factura>
+      </facturas>
+    </liquidacion>
+    <liquidacion num_liq="1">
+      <facturas>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotadebito" fecha_oper="2021/11/29" fuf="20220117Z014AAAPD1" fecha_pago="2022/02/02">
+          <conceptos>
+            <concepto ful="20211206Z014AAA-F30180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>1957.83</monto_total>
+              <iva>313.25</iva>
+              <total_neto>2271.08</total_neto>
+              <anexos>
+                <anexo>
+                  <registroshorarios>
+                    <registro HORA="1" ENERGIA_FISICA="41" PRECIO="-2.042351" MONTO_HORARIO="-83.74" />
+                    <registro HORA="2" ENERGIA_FISICA="57" PRECIO="-7.295168" MONTO_HORARIO="-415.82" />
+                    <registro HORA="3" ENERGIA_FISICA="57" PRECIO="-6.654417" MONTO_HORARIO="-379.3" />
+                    <registro HORA="4" ENERGIA_FISICA="63" PRECIO="4.516353" MONTO_HORARIO="284.53" />
+                    <registro HORA="5" ENERGIA_FISICA="83" PRECIO="-7.334133" MONTO_HORARIO="-608.73" />
+                    <registro HORA="6" ENERGIA_FISICA="77" PRECIO="-8.939518" MONTO_HORARIO="-688.34" />
+                    <registro HORA="7" ENERGIA_FISICA="98" PRECIO="-0.677814" MONTO_HORARIO="-66.43" />
+                    <registro HORA="8" ENERGIA_FISICA="0" PRECIO="-3.554377" MONTO_HORARIO="0" />
+                    <registro HORA="9" ENERGIA_FISICA="0" PRECIO="-8.461003" MONTO_HORARIO="0" />
+                    <registro HORA="10" ENERGIA_FISICA="0" PRECIO="5.827841" MONTO_HORARIO="0" />
+                    <registro HORA="11" ENERGIA_FISICA="0" PRECIO="20.280396" MONTO_HORARIO="0" />
+                    <registro HORA="12" ENERGIA_FISICA="0" PRECIO="1.074718" MONTO_HORARIO="0" />
+                    <registro HORA="13" ENERGIA_FISICA="0" PRECIO="2.338441" MONTO_HORARIO="0" />
+                    <registro HORA="14" ENERGIA_FISICA="0" PRECIO="2.393332" MONTO_HORARIO="0" />
+                    <registro HORA="15" ENERGIA_FISICA="0" PRECIO="0.75721" MONTO_HORARIO="0" />
+                    <registro HORA="16" ENERGIA_FISICA="0" PRECIO="5.990812" MONTO_HORARIO="0" />
+                    <registro HORA="17" ENERGIA_FISICA="0" PRECIO="-9.323886" MONTO_HORARIO="0" />
+                    <registro HORA="18" ENERGIA_FISICA="0" PRECIO="-2.578689" MONTO_HORARIO="0" />
+                    <registro HORA="19" ENERGIA_FISICA="0" PRECIO="-4.18028" MONTO_HORARIO="0" />
+                    <registro HORA="20" ENERGIA_FISICA="0" PRECIO="-6.883193" MONTO_HORARIO="0" />
+                    <registro HORA="21" ENERGIA_FISICA="0" PRECIO="-22.03709" MONTO_HORARIO="0" />
+                    <registro HORA="22" ENERGIA_FISICA="0" PRECIO="-5.001928" MONTO_HORARIO="0" />
+                    <registro HORA="23" ENERGIA_FISICA="0" PRECIO="11.500576" MONTO_HORARIO="0" />
+                    <registro HORA="24" ENERGIA_FISICA="0" PRECIO="8.456572" MONTO_HORARIO="0" />
+                  </registroshorarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20211206Z014AAA-F30181" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>1962.06</monto_total>
+              <iva>313.93</iva>
+              <total_neto>2275.99</total_neto>
+              <monto_total_dif>-4.23</monto_total_dif>
+              <iva_dif>-0.68</iva_dif>
+              <total_neto_dif>-4.91</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registroshorarios>
+                    <registro HORA="1" ENERGIA_FISICA="41" PRECIO="-2.047511" MONTO_HORARIO="-83.95" />
+                    <registro HORA="2" ENERGIA_FISICA="57" PRECIO="-7.3147" MONTO_HORARIO="-416.94" />
+                    <registro HORA="3" ENERGIA_FISICA="57" PRECIO="-6.67318" MONTO_HORARIO="-380.37" />
+                    <registro HORA="4" ENERGIA_FISICA="63" PRECIO="4.528657" MONTO_HORARIO="285.31" />
+                    <registro HORA="5" ENERGIA_FISICA="83" PRECIO="-7.348348" MONTO_HORARIO="-609.91" />
+                    <registro HORA="6" ENERGIA_FISICA="77" PRECIO="-8.956824" MONTO_HORARIO="-689.68" />
+                    <registro HORA="7" ENERGIA_FISICA="98" PRECIO="-0.678725" MONTO_HORARIO="-66.52" />
+                    <registro HORA="8" ENERGIA_FISICA="0" PRECIO="-3.561757" MONTO_HORARIO="0" />
+                    <registro HORA="9" ENERGIA_FISICA="0" PRECIO="-8.482718" MONTO_HORARIO="0" />
+                    <registro HORA="10" ENERGIA_FISICA="0" PRECIO="5.841879" MONTO_HORARIO="0" />
+                    <registro HORA="11" ENERGIA_FISICA="0" PRECIO="20.324496" MONTO_HORARIO="0" />
+                    <registro HORA="12" ENERGIA_FISICA="0" PRECIO="1.075693" MONTO_HORARIO="0" />
+                    <registro HORA="13" ENERGIA_FISICA="0" PRECIO="2.338342" MONTO_HORARIO="0" />
+                    <registro HORA="14" ENERGIA_FISICA="0" PRECIO="2.396601" MONTO_HORARIO="0" />
+                    <registro HORA="15" ENERGIA_FISICA="0" PRECIO="0.758773" MONTO_HORARIO="0" />
+                    <registro HORA="16" ENERGIA_FISICA="0" PRECIO="6.001105" MONTO_HORARIO="0" />
+                    <registro HORA="17" ENERGIA_FISICA="0" PRECIO="-9.347638" MONTO_HORARIO="0" />
+                    <registro HORA="18" ENERGIA_FISICA="0" PRECIO="-2.585351" MONTO_HORARIO="0" />
+                    <registro HORA="19" ENERGIA_FISICA="0" PRECIO="-4.191128" MONTO_HORARIO="0" />
+                    <registro HORA="20" ENERGIA_FISICA="0" PRECIO="-6.899886" MONTO_HORARIO="0" />
+                    <registro HORA="21" ENERGIA_FISICA="0" PRECIO="-22.088376" MONTO_HORARIO="0" />
+                    <registro HORA="22" ENERGIA_FISICA="0" PRECIO="-5.014292" MONTO_HORARIO="0" />
+                    <registro HORA="23" ENERGIA_FISICA="0" PRECIO="11.530315" MONTO_HORARIO="0" />
+                    <registro HORA="24" ENERGIA_FISICA="0" PRECIO="8.481704" MONTO_HORARIO="0" />
+                  </registroshorarios>
+                </anexo>
+              </anexos>
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotacredito" fecha_oper="2021/11/29" fuf="20220117Z014AAAPC1" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotadebito" fecha_oper="2021/11/29" fuf="20220117Z014AAACD1" ref_bancaria="202201...249A23" fecha_pago="2022/01/26">
+          <conceptos>
+            <concepto ful="20211206Z014AAA-A11180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>13137.36</monto_total>
+              <iva>2101.98</iva>
+              <total_neto>15239.34</total_neto>
+              <anexos>
+                <anexo>
+                  <registroshorarios>
+                    <registro HORA="1" POTENCIA="41" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="1131.58" />
+                    <registro HORA="2" POTENCIA="57" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="1573.17" />
+                    <registro HORA="3" POTENCIA="57" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="1573.17" />
+                    <registro HORA="4" POTENCIA="63" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="1738.77" />
+                    <registro HORA="5" POTENCIA="83" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="2290.76" />
+                    <registro HORA="6" POTENCIA="77" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="2125.16" />
+                    <registro HORA="7" POTENCIA="98" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="2704.75" />
+                    <registro HORA="8" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="9" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="10" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="11" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="12" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="13" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="14" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="15" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="16" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="17" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="18" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="19" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="20" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="21" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="22" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="23" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                    <registro HORA="24" POTENCIA="0" PRECIO_GSI="27.5995207738125074" MONTO_HORARIO="0" />
+                  </registroshorarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20211206Z014AAA-A11181" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>13165.48</monto_total>
+              <iva>2106.48</iva>
+              <total_neto>15271.96</total_neto>
+              <monto_total_dif>-28.12</monto_total_dif>
+              <iva_dif>-4.50</iva_dif>
+              <total_neto_dif>-32.62</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registroshorarios>
+                    <registro HORA="1" POTENCIA="41" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="1134" />
+                    <registro HORA="2" POTENCIA="57" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="1576.54" />
+                    <registro HORA="3" POTENCIA="57" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="1576.54" />
+                    <registro HORA="4" POTENCIA="63" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="1742.49" />
+                    <registro HORA="5" POTENCIA="83" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="2295.66" />
+                    <registro HORA="6" POTENCIA="77" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="2129.71" />
+                    <registro HORA="7" POTENCIA="98" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="2710.54" />
+                    <registro HORA="8" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="9" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="10" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="11" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="12" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="13" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="14" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="15" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="16" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="17" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="18" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="19" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="20" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="21" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="22" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="23" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                    <registro HORA="24" POTENCIA="0" PRECIO_GSI="27.6585392671713152" MONTO_HORARIO="0" />
+                  </registroshorarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20211206Z014AAA-B11180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>43869.33</monto_total>
+              <iva>7019.09</iva>
+              <total_neto>50888.42</total_neto>
+              <anexos>
+                <anexo>
+                  <registroshorarios>
+                    <registro HORA="1" POTENCIA="41" PRECIO_GSI="92.162468" MONTO_HORARIO="3778.66" />
+                    <registro HORA="2" POTENCIA="57" PRECIO_GSI="92.162468" MONTO_HORARIO="5253.26" />
+                    <registro HORA="3" POTENCIA="57" PRECIO_GSI="92.162468" MONTO_HORARIO="5253.26" />
+                    <registro HORA="4" POTENCIA="63" PRECIO_GSI="92.162468" MONTO_HORARIO="5806.24" />
+                    <registro HORA="5" POTENCIA="83" PRECIO_GSI="92.162468" MONTO_HORARIO="7649.48" />
+                    <registro HORA="6" POTENCIA="77" PRECIO_GSI="92.162468" MONTO_HORARIO="7096.51" />
+                    <registro HORA="7" POTENCIA="98" PRECIO_GSI="92.162468" MONTO_HORARIO="9031.92" />
+                    <registro HORA="8" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="9" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="10" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="11" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="12" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="13" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="14" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="15" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="16" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="17" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="18" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="19" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="20" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="21" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="22" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="23" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                    <registro HORA="24" POTENCIA="0" PRECIO_GSI="92.162468" MONTO_HORARIO="0" />
+                  </registroshorarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20211206Z014AAA-B11181" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>44028.26</monto_total>
+              <iva>7044.52</iva>
+              <total_neto>51072.78</total_neto>
+              <monto_total_dif>-158.93</monto_total_dif>
+              <iva_dif>-25.43</iva_dif>
+              <total_neto_dif>-184.36</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registroshorarios>
+                    <registro HORA="1" POTENCIA="41" PRECIO_GSI="92.496374" MONTO_HORARIO="3792.35" />
+                    <registro HORA="2" POTENCIA="57" PRECIO_GSI="92.496374" MONTO_HORARIO="5272.29" />
+                    <registro HORA="3" POTENCIA="57" PRECIO_GSI="92.496374" MONTO_HORARIO="5272.29" />
+                    <registro HORA="4" POTENCIA="63" PRECIO_GSI="92.496374" MONTO_HORARIO="5827.27" />
+                    <registro HORA="5" POTENCIA="83" PRECIO_GSI="92.496374" MONTO_HORARIO="7677.2" />
+                    <registro HORA="6" POTENCIA="77" PRECIO_GSI="92.496374" MONTO_HORARIO="7122.22" />
+                    <registro HORA="7" POTENCIA="98" PRECIO_GSI="92.496374" MONTO_HORARIO="9064.64" />
+                    <registro HORA="8" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="9" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="10" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="11" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="12" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="13" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="14" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="15" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="16" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="17" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="18" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="19" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="20" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="21" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="22" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="23" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                    <registro HORA="24" POTENCIA="0" PRECIO_GSI="92.496374" MONTO_HORARIO="0" />
+                  </registroshorarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20211206Z014AAA-B12180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>397.95</monto_total>
+              <iva>63.67</iva>
+              <total_neto>461.62</total_neto>
+              <anexos>
+                <anexo>
+                  <registroshorarios>
+                    <registro HORA="1" POTENCIA_MTR="41" PRECIO="-4.2350098535168502" MONTO_HORARIO="-173.64" />
+                    <registro HORA="2" POTENCIA_MTR="57" PRECIO="8.3382289673545852" MONTO_HORARIO="475.28" />
+                    <registro HORA="3" POTENCIA_MTR="57" PRECIO="20.4465328786544976" MONTO_HORARIO="1165.45" />
+                    <registro HORA="4" POTENCIA_MTR="63" PRECIO="20.4292308732664955" MONTO_HORARIO="1287.04" />
+                    <registro HORA="5" POTENCIA_MTR="83" PRECIO="1.2547828449632417" MONTO_HORARIO="104.15" />
+                    <registro HORA="6" POTENCIA_MTR="77" PRECIO="-18.7079153630375701" MONTO_HORARIO="-1440.51" />
+                    <registro HORA="7" POTENCIA_MTR="98" PRECIO="-18.5277515668993587" MONTO_HORARIO="-1815.72" />
+                    <registro HORA="8" POTENCIA_MTR="0" PRECIO="-17.9859978153245978" MONTO_HORARIO="0" />
+                    <registro HORA="9" POTENCIA_MTR="0" PRECIO="-16.7544183529485285" MONTO_HORARIO="0" />
+                    <registro HORA="10" POTENCIA_MTR="0" PRECIO="-16.8585102692023432" MONTO_HORARIO="0" />
+                    <registro HORA="11" POTENCIA_MTR="0" PRECIO="-15.0052390065480521" MONTO_HORARIO="0" />
+                    <registro HORA="12" POTENCIA_MTR="0" PRECIO="-14.2424462828380854" MONTO_HORARIO="0" />
+                    <registro HORA="13" POTENCIA_MTR="0" PRECIO="-15.6468536603502257" MONTO_HORARIO="0" />
+                    <registro HORA="14" POTENCIA_MTR="0" PRECIO="-15.789004807801887" MONTO_HORARIO="0" />
+                    <registro HORA="15" POTENCIA_MTR="0" PRECIO="-15.440092765672058" MONTO_HORARIO="0" />
+                    <registro HORA="16" POTENCIA_MTR="0" PRECIO="-19.4696666903056044" MONTO_HORARIO="0" />
+                    <registro HORA="17" POTENCIA_MTR="0" PRECIO="-19.9254037405327383" MONTO_HORARIO="0" />
+                    <registro HORA="18" POTENCIA_MTR="0" PRECIO="-19.1214810931551331" MONTO_HORARIO="0" />
+                    <registro HORA="19" POTENCIA_MTR="0" PRECIO="-15.2586811689273346" MONTO_HORARIO="0" />
+                    <registro HORA="20" POTENCIA_MTR="0" PRECIO="-15.7057718613727484" MONTO_HORARIO="0" />
+                    <registro HORA="21" POTENCIA_MTR="0" PRECIO="-21.7446150823960487" MONTO_HORARIO="0" />
+                    <registro HORA="22" POTENCIA_MTR="0" PRECIO="-19.3927356940466308" MONTO_HORARIO="0" />
+                    <registro HORA="23" POTENCIA_MTR="0" PRECIO="-15.5426667640475027" MONTO_HORARIO="0" />
+                    <registro HORA="24" POTENCIA_MTR="0" PRECIO="-17.6137061259774459" MONTO_HORARIO="0" />
+                  </registroshorarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20211206Z014AAA-B12181" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>1289.71</monto_total>
+              <iva>206.35</iva>
+              <total_neto>1496.06</total_neto>
+              <monto_total_dif>-891.76</monto_total_dif>
+              <iva_dif>-142.68</iva_dif>
+              <total_neto_dif>-1034.44</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registroshorarios>
+                    <registro HORA="1" POTENCIA_MTR="41" PRECIO="-6.425807226881768" MONTO_HORARIO="-263.46" />
+                    <registro HORA="2" POTENCIA_MTR="57" PRECIO="6.0408796204401322" MONTO_HORARIO="344.33" />
+                    <registro HORA="3" POTENCIA_MTR="57" PRECIO="18.0710130055503984" MONTO_HORARIO="1030.05" />
+                    <registro HORA="4" POTENCIA_MTR="63" PRECIO="18.1216415332989672" MONTO_HORARIO="1141.66" />
+                    <registro HORA="5" POTENCIA_MTR="83" PRECIO="-0.410844272495321" MONTO_HORARIO="-34.1" />
+                    <registro HORA="6" POTENCIA_MTR="77" PRECIO="-20.4310501392878069" MONTO_HORARIO="-1573.19" />
+                    <registro HORA="7" POTENCIA_MTR="98" PRECIO="-19.7448966471696614" MONTO_HORARIO="-1935" />
+                    <registro HORA="8" POTENCIA_MTR="0" PRECIO="-19.8474782844054315" MONTO_HORARIO="0" />
+                    <registro HORA="9" POTENCIA_MTR="0" PRECIO="-19.0325685285775637" MONTO_HORARIO="0" />
+                    <registro HORA="10" POTENCIA_MTR="0" PRECIO="-19.0311057828148319" MONTO_HORARIO="0" />
+                    <registro HORA="11" POTENCIA_MTR="0" PRECIO="-16.9414948574453119" MONTO_HORARIO="0" />
+                    <registro HORA="12" POTENCIA_MTR="0" PRECIO="-15.098748907184001" MONTO_HORARIO="0" />
+                    <registro HORA="13" POTENCIA_MTR="0" PRECIO="-16.1464600075544703" MONTO_HORARIO="0" />
+                    <registro HORA="14" POTENCIA_MTR="0" PRECIO="-16.9582978268110994" MONTO_HORARIO="0" />
+                    <registro HORA="15" POTENCIA_MTR="0" PRECIO="-17.2015432480720054" MONTO_HORARIO="0" />
+                    <registro HORA="16" POTENCIA_MTR="0" PRECIO="-21.3099561403950388" MONTO_HORARIO="0" />
+                    <registro HORA="17" POTENCIA_MTR="0" PRECIO="-23.063739056923403" MONTO_HORARIO="0" />
+                    <registro HORA="18" POTENCIA_MTR="0" PRECIO="-22.5481855209044662" MONTO_HORARIO="0" />
+                    <registro HORA="19" POTENCIA_MTR="0" PRECIO="-18.1006003629831" MONTO_HORARIO="0" />
+                    <registro HORA="20" POTENCIA_MTR="0" PRECIO="-18.3261315286084316" MONTO_HORARIO="0" />
+                    <registro HORA="21" POTENCIA_MTR="0" PRECIO="-24.7084953563258111" MONTO_HORARIO="0" />
+                    <registro HORA="22" POTENCIA_MTR="0" PRECIO="-22.3392982466060746" MONTO_HORARIO="0" />
+                    <registro HORA="23" POTENCIA_MTR="0" PRECIO="-18.0086087444317474" MONTO_HORARIO="0" />
+                    <registro HORA="24" POTENCIA_MTR="0" PRECIO="-20.2067622354185783" MONTO_HORARIO="0" />
+                  </registroshorarios>
+                </anexo>
+              </anexos>
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotacredito" fecha_oper="2021/11/29" fuf="20220117Z014AAACC1" ref_bancaria="" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+      </facturas>
+    </liquidacion>
+    <liquidacion num_liq="2">
+      <facturas>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotadebito" fecha_oper="2021/10/04" fuf="20220117Z014AAAPD2" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotacredito" fecha_oper="2021/10/04" fuf="20220117Z014AAAPC2" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotadebito" fecha_oper="2021/10/04" fuf="20220117Z014AAACD2" ref_bancaria="" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotacredito" fecha_oper="2021/10/04" fuf="20220117Z014AAACC2" ref_bancaria="" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+      </facturas>
+    </liquidacion>
+    <liquidacion num_liq="3">
+      <facturas>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotadebito" fecha_oper="2021/06/21" fuf="20220117Z014AAAPD3" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotacredito" fecha_oper="2021/06/21" fuf="20220117Z014AAAPC3" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotadebito" fecha_oper="2021/06/21" fuf="20220117Z014AAACD3" ref_bancaria="202201...249A49" fecha_pago="2022/01/26">
+          <conceptos>
+            <concepto ful="20210628Z014AAA-F52182" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro COM_ENER_FIS="1" PRECIO_DIS_DESPLAZ="0" PAGO_DESPLAZAMIENTO="0" PAGO_OBRAS="0" CARGO_ERC_DEFICIT="0" MONTO_HORARIO="0" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20210628Z014AAA-F52183" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>5.92</monto_total>
+              <iva>0.95</iva>
+              <total_neto>6.87</total_neto>
+              <monto_total_dif>-5.92</monto_total_dif>
+              <iva_dif>-0.95</iva_dif>
+              <total_neto_dif>-6.87</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro COM_ENER_FIS="1" PRECIO_DIS_DESPLAZ="5.923128" PAGO_DESPLAZAMIENTO="325862.75" PAGO_OBRAS="0" CARGO_ERC_DEFICIT="0" MONTO_HORARIO="5.92" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotacredito" fecha_oper="2021/06/21" fuf="20220117Z014AAACC3" ref_bancaria="" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+      </facturas>
+    </liquidacion>
+  </liquidaciones>
+</estadodecuenta>

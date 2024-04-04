@@ -1,0 +1,954 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<estadodecuenta FUECD="20220120Z014AAA" clv_participante="Z014" clv_subcuenta="Z014AAA" fecha_oper="2022/01/13" fecha_emis="2022/01/18" clv_sistema="BCA">
+  <liquidaciones>
+    <liquidacion num_liq="0">
+      <facturas>
+        <factura tipo="pago" emisor="participante" rfc="" razon_social="" domicilio="" fuf="20220120Z014AAAP00" fecha_pago="2022/02/02">
+          <conceptos>
+            <concepto ful="20220120Z014AAA-A01010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A01040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A03010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A04010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A05010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A06010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A07010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A10010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A12180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A13070" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A14180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A15020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A15030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A15050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A17080" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A18180" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A19110" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A67290" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B01010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B01040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B03010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B04010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B05010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B06010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B07010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B10010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B12180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B19110" grupo="">
+              <descripcion> al Receptor</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B22180" grupo="">
+              <descripcion>Reembolso de las </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B25180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C57010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C59010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C61010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-E27130" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F24060" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F29180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F30010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F31150" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F35180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F38170" grupo="">
+              <descripcion>Contribución de Participantes del Mercado al Pago al Fondo de Capital de Trabajo por </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F48170" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F49210" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F63150" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura tipo="cobro" emisor="cenace" fuf="20220120Z014AAAC00" ref_bancaria="" rfc="" razon_social="" domicilio="" fecha_pago="2022/01/26">
+          <conceptos>
+            <concepto ful="20220120Z014AAA-A02020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A02030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A02050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A08010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A08020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A08030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A08040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A08050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A09010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A09020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A09030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A09040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A09050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A11180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A16090" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A20100" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A42020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A43020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-A68290" grupo="Subastas de ">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B02020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B02030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B02050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B08010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B08020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B08030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B08040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B08050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B09010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B09020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B09030" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B09040" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B09050" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B11180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B20100" grupo="">
+              <descripcion> al Emisor</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B21010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B42020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B43020" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C50120" grupo="">
+              <descripcion>Cargos a los Participantes del Mercado por </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C52120" grupo="">
+              <descripcion>Cargos a los Participantes del Mercado por </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C54120" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C56120" grupo="">
+              <descripcion>Cargos a los Participantes del Mercado por la función de </descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C58120" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C60120" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-C62120" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-E26130" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-E44130" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F23160" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F28140" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F30180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F32180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F33010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F34010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F37020" grupo="">
+              <descripcion>Contribución a  de los Centros de Carga Directamente Modelados</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F37030" grupo="">
+              <descripcion>Contribución a  de los Centros de Carga Indirectamente Modelados</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F37050" grupo="">
+              <descripcion>Contribución a  por exportaciones</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F40190" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F45010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F46010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F47010" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F51230" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F52180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F64250" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F69300" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-F70180" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura tipo="pagonotacredito" emisor="participante" rfc="" razon_social="" domicilio="" fuf="20220120Z014AAAPT0" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura tipo="cobronotacredito" emisor="cenace" fuf="20220120Z014AAACT0" ref_bancaria="" rfc="" razon_social="" domicilio="" fecha_pago="2022/02/02">
+          <conceptos>
+            <concepto ful="20220120Z014AAA-B65260" grupo="">
+              <descripcion>Ajuste al Participante por Transacciones Bilaterales de  (receptor)</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+            <concepto ful="20220120Z014AAA-B65270" grupo="">
+              <descripcion>Ajuste al Participante por Transacciones Bilaterales de  (receptor)</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos />
+            </concepto>
+          </conceptos>
+        </factura>
+      </facturas>
+    </liquidacion>
+    <liquidacion num_liq="1">
+      <facturas>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotadebito" fecha_oper="2021/12/02" fuf="20220120Z014AAAPD1" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotacredito" fecha_oper="2021/12/02" fuf="20220120Z014AAAPC1" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotadebito" fecha_oper="2021/12/02" fuf="20220120Z014AAACD1" ref_bancaria="202201...273A19" fecha_pago="2022/01/26">
+          <conceptos>
+            <concepto ful="20211209Z014AAA-F40190" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>3862.80</monto_total>
+              <iva>618.05</iva>
+              <total_neto>4480.85</total_neto>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro MES="01/12/2021" SEMANA="48" ENERGIA="1294" PRECIO="2.985161" MONTO="3862.8" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20211209Z014AAA-F40191" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>12308.41</monto_total>
+              <iva>1969.35</iva>
+              <total_neto>14277.76</total_neto>
+              <monto_total_dif>-8445.61</monto_total_dif>
+              <iva_dif>-1351.30</iva_dif>
+              <total_neto_dif>-9796.91</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro MES="01/12/2021" SEMANA="48" ENERGIA="1294" PRECIO="9.511907" MONTO="12308.41" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotacredito" fecha_oper="2021/12/02" fuf="20220120Z014AAACC1" ref_bancaria="" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+      </facturas>
+    </liquidacion>
+    <liquidacion num_liq="2">
+      <facturas>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotadebito" fecha_oper="2021/10/07" fuf="20220120Z014AAAPD2" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotacredito" fecha_oper="2021/10/07" fuf="20220120Z014AAAPC2" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotadebito" fecha_oper="2021/10/07" fuf="20220120Z014AAACD2" ref_bancaria="202201...279A13" fecha_pago="2022/01/26">
+          <conceptos>
+            <concepto ful="20211014Z014AAA-F40191" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>251.09</monto_total>
+              <iva>40.17</iva>
+              <total_neto>291.26</total_neto>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro MES="01/10/2021" SEMANA="40" ENERGIA="40" PRECIO="6.277206" MONTO="251.09" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20211014Z014AAA-F40192" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>335.06</monto_total>
+              <iva>53.61</iva>
+              <total_neto>388.67</total_neto>
+              <monto_total_dif>-83.97</monto_total_dif>
+              <iva_dif>-13.44</iva_dif>
+              <total_neto_dif>-97.41</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro MES="01/10/2021" SEMANA="40" ENERGIA="40" PRECIO="8.376454" MONTO="335.06" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotacredito" fecha_oper="2021/10/07" fuf="20220120Z014AAACC2" ref_bancaria="" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+      </facturas>
+    </liquidacion>
+    <liquidacion num_liq="3">
+      <facturas>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotadebito" fecha_oper="2021/06/24" fuf="20220120Z014AAAPD3" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+        <factura emisor="participante" rfc="" razon_social="" domicilio="" tipo="pagonotacredito" fecha_oper="2021/06/24" fuf="20220120Z014AAAPC3" fecha_pago="2022/01/26">
+          <conceptos />
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotadebito" fecha_oper="2021/06/24" fuf="20220120Z014AAACD3" ref_bancaria="202201...273A45" fecha_pago="2022/01/26">
+          <conceptos>
+            <concepto ful="20210701Z014AAA-F40192" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>12869.77</monto_total>
+              <iva>2059.16</iva>
+              <total_neto>14928.93</total_neto>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro MES="01/06/2021" SEMANA="25" ENERGIA="1227" PRECIO="10.488807" MONTO="12869.77" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20210701Z014AAA-F40193" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>14822.06</monto_total>
+              <iva>2371.53</iva>
+              <total_neto>17193.59</total_neto>
+              <monto_total_dif>-1952.29</monto_total_dif>
+              <iva_dif>-312.37</iva_dif>
+              <total_neto_dif>-2264.66</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro MES="01/06/2021" SEMANA="25" ENERGIA="1227" PRECIO="12.079921" MONTO="14822.06" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20210701Z014AAA-F52182" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>0.00</monto_total>
+              <iva>0.00</iva>
+              <total_neto>0.00</total_neto>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro COM_ENER_FIS="1" PRECIO_DIS_DESPLAZ="0" PAGO_DESPLAZAMIENTO="0" PAGO_OBRAS="0" CARGO_ERC_DEFICIT="0" MONTO_HORARIO="0" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+            <concepto ful="20210701Z014AAA-F52183" grupo="">
+              <descripcion>Some description</descripcion>
+              <monto_total>5.99</monto_total>
+              <iva>0.96</iva>
+              <total_neto>6.95</total_neto>
+              <monto_total_dif>-5.99</monto_total_dif>
+              <iva_dif>-0.96</iva_dif>
+              <total_neto_dif>-6.95</total_neto_dif>
+              <anexos>
+                <anexo>
+                  <registrosdiarios>
+                    <registro COM_ENER_FIS="1" PRECIO_DIS_DESPLAZ="5.987409" PAGO_DESPLAZAMIENTO="325862.75" PAGO_OBRAS="0" CARGO_ERC_DEFICIT="0" MONTO_HORARIO="5.99" />
+                  </registrosdiarios>
+                </anexo>
+              </anexos>
+            </concepto>
+          </conceptos>
+        </factura>
+        <factura emisor="cenace" rfc="" razon_social="" domicilio="" tipo="cobronotacredito" fecha_oper="2021/06/24" fuf="20220120Z014AAACC3" ref_bancaria="" fecha_pago="2022/02/02">
+          <conceptos />
+        </factura>
+      </facturas>
+    </liquidacion>
+  </liquidaciones>
+</estadodecuenta>
